@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "/Users/gianupro/projects/personal/hardware/qaz_b/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "/Users/gianupro/projects/personal/hardware/qaz_b/Type-C.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "/Users/gianupro/projects/personal/hardware/qaz_b/MX_Alps_Hybrid.pretty/MX_Only.pretty")(options "")(descr ""))
+)
